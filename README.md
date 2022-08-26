@@ -16,8 +16,6 @@ metadata:
     cloud.computing.information.technology.infrastructure.library: ITILv3
     cisco.certified.network.professional: CCNP
     oracle.certified.professional: OCP
-    
-    
 spec:
   skills:
   - Kubernetes, Linux, Security, DevOps, Serverless/FaaS
