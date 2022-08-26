@@ -9,6 +9,14 @@ metadata:
     jianpingniu.github.io/career💻: Technical Manager
     jianpingniu.github.io/community🥑: CNCF
     jianpingniu.github.io/company🏢: Qiming
+  labels:
+    certified.kubernetes.administrator: CKA
+    certified.kubernetes.security.specialist: CKS
+    alibaba.cloud.certified.professional: ACP
+    cloud.computing.information.technology.infrastructure.library: ITILv3
+    cisco.certified.network.professional: CCNP
+    oracle.certified.professional: OCP
+    
     
 spec:
   skills:
