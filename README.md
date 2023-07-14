@@ -5,10 +5,9 @@ kind: introduction
 metadata:
   name: about
    annotations:
-    jianpingniu.github.io/full-name😊: Jianping Niu（牛建平）
+    jianpingniu.github.io/full-name😊: Jianping Niu
     jianpingniu.github.io/career💻: Technical Manager
     jianpingniu.github.io/community🥑: CNCF
-    jianpingniu.github.io/company🏢: Qiming
   labels:
     certified.kubernetes.administrator: CKA
     certified.kubernetes.security.specialist: CKS
