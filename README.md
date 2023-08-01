@@ -1,6 +1,8 @@
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=400&lines=Hi+there+👋,+I+am+Jianping+Niu;+Welcome+to+My+Profile!;Over+10+years+of+programming+experience;Always+learning+new+things+;CNCF+CKA+CKS+Certificate;Cloud+Native+Changchun+Community+Groups)](https://git.io/typing-svg)
+
 <!--   my-header-img -->
 ![header_](https://github.com/hurricane1988/hurricane1988/assets/16606960/b4af1922-38eb-4a44-b55b-9a49dc0000bb)
-
 
 ### Hi there 👋
 ```
